@@ -4,7 +4,7 @@ Repository for paper "A methodology for topic evaluation and topic identificatio
 
 Main file is the notebook: `method.ipynb`
 
-## Library versions:
+## Libraries versions:
 
 * torchtext: 0.2.3
 * gensim: 3.6.0
